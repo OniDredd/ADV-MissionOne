@@ -1,13 +1,3 @@
 module.export = {
-    googleProjectId: "mission-one-chatbot",
-    googlePrivateKeyId: "1f4399f20076d23f1adb1a21cb6e77c2936d53ba",
-    googlePrivateKey: "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCLMkrFaeMFLWza\nib31D4fYptQORSgKMBiMHl687qJdDCvR4Qc14Ft29JCVJ4kO9TTq6IJqgtp1k7pF\n6uTwbbXrax4mhNzGTK8D2eb3c4OR/WbS0DSPAYB4R/VPHX53i5G7u6onucQlWoC+\nfMZZ9XxKLLiv0Vn6y7WsbS5s1O9+ocUGCqqn7p01Hta9i7FpnbjpF1pX2/0kucIt\nvCc3APx2poH0+1sEF4bUtEaJkaxL9VLSv8XNlJ95c0qu+acVfiqJSwzjj/mMRi5D\naOdMppXmsI75zyVGMfgTIV03hs2e7aHcxlLX5VdVJW99AKrzMkD1hM281E7PXZHq\nrxLEEO0XAgMBAAECggEANZSfWYxf2d9ZdmntGAbpaMkW+YM/XWSUHmOWXi2RjDWi\nLIDtcJyzOH/9o5x7Uqmqu/3SLcO+6eF6o20+wRnKHBu4mGUuQprEB7x5/qiVbb3Y\nNa/1e1K9rA8u60xUIRo1d8lOP0pvqV1ED48iHwCy3i6GzQ7ODw8ZGI1SgIwawGhd\nhMwH03MQjd/usmdGbjmOHV323OvLu6gBoqE5lolKxyv/zPE1ywFX2TlW46gOJqO8\n5gqVijL2HVhsgOzPGmr0OMN7mamOye9vfgsDPUXfRiAoc303LoiEzu82eRmFRLBN\nPhTRGTf9FqZ8ZsPL5yE8pzBKSyA2Cec4ZADyO2j0IQKBgQC+PgzXGt1bJkbVgVKP\n8E0CQB435uxj47Izd5HAxcCPj0IGOUHfkEn22Yttd9V3u5e2jZWRfg1XXzFBri2y\ni5VPopL9kz+bxP9iVRZoDkwm0EPWu/8CsvhH6YyPpm4N964B2tObYLmQOBly62Al\nUqtpLMGkQBimoKqGIhQhBMTxEQKBgQC7T1kj/5ZL4bixYNtyikCQmKJjaK3VehqN\nIdiQzU3ZC32eruCTEHGlBaFXqfGGLRSFJTwcAjy+EXwXtC1dPfPJuUo/BG/R8jMg\nLwpIMt1gV8CQykh2J8hqDnIX2yfisRYPYvie8qtnfm4TRF6QdKAslebgrBFS0UaN\nY8hqG3z7pwKBgFljupDQNLaBk8L6kxrDJMwr6IcH4IdHFBKO2lOkF8jc3X8jJEqx\n968fpR34srsh0DWc7WyBuC8XsYNVHm/Imo3irAKuT7MXq5A+vtqB7VJHhbi+eSKB\niZvwp3VQFGJHwOFqOwfFOSwE0CBpbLHc2GIA/7P30h1pXPbNyHuDTC6hAoGBALaC\nJTg3RMnhQWXMG2cqoKiDoM6944t7cz2K+gp1kOHoGVmxye5h+mmx57iURVrYuALX\n+g7Me0Uzojcyf3U39T/cBCUM/KuTlA9K5njc3umN93rdLue58cStGKx4BRAUPot1\ngwzVJQAtp7GsT3vvt1ZaJWFLJ4ILmfQQguooqIpHAoGBAIlBafdydC2/Oela7Ce6\nqkb1SzvCoZoL+xpqsmvQjTy1Tm6y6uTWgbfRD52fUE94Adktg6fyyBfSzpNzN972\nyWuluV5cgPf8zc4xL6u1+/OKrzhaJwRylZ+yM04OPV4JGshmSKb5eiwn86rOveTt\nk+bRL1HLk3+sWgDF43ioDtfZ\n-----END PRIVATE KEY-----\n",
-    googleClientEmail: "mission-one@mission-one-chatbot.iam.gserviceaccount.com",
-    googleClientId: "108502633076548488832",
-    googleAuth_uri: "https://accounts.google.com/o/oauth2/auth",
-    googleToken_uri: "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mission-one%40mission-one-chatbot.iam.gserviceaccount.com",
-    dialogFlowSessionId: 'testing-session',
-    dialogFlowSessionLanguageCode: 'en-US'
+    
 }
